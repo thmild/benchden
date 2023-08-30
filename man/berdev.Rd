@@ -93,11 +93,11 @@ the density is not continous or not differentiable.}
 \references{ A. Berlinet and L. Devroye, "A comparison of kernel density estimates", 
 Publications de l'Institut de Statistique de l'Universite de Paris, 
 vol. 38(3), pp. 3-59, 1994. 
-\url{http://cg.scs.carleton.ca/~luc/devs.html}
+\url{https://hal.science/hal-03659919}
 
 T. Mildenberger and H. Weinert, "The benchden Package:
   Benchmark Densities for Nonparametric Density Estimation", Journal of
-  Statistical Software, vol. 46(14), 1-14, 2012. \url{http://www.jstatsoft.org/v46/i14/}
+  Statistical Software, vol. 46(14), 1-14, 2012. \url{https://www.jstatsoft.org/v46/i14/}
 }
 \author{ Thoralf Mildenberger, Henrike Weinert and Sebastian Tiemeyer}
 

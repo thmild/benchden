@@ -1,20 +1,21 @@
 citHeader("To cite benchden in publications use:")
 
-citEntry(entry = "Article",
+bibentry(bibtype = "Article",
   title        = "The {benchden} Package: Benchmark Densities for Nonparametric Density Estimation",
-  author       = personList(as.person("Thoralf Mildenberger"),
-                   as.person("Henrike Weinert")),
+  author       = c(person("Thoralf", "Mildenberger", email = "mild@zhaw.ch", role = c("aut", "cre"),
+    comment = c(ORCID = "0000-0001-7242-1873")),
+    person("Henrike", "Weinert", email = "henrike.weinert@tu-dortmund.de", role = c("aut"))),
   journal      = "Journal of Statistical Software",
   year         = "2012",
   volume       = "46",
   number       = "14",
   pages        = "1--14",
-  url          = "http://www.jstatsoft.org/v46/i14/",
+  url          = "https://www.jstatsoft.org/v46/i14/",
 
   textVersion  =
   paste("Thoralf Mildenberger, Henrike Weinert (2012).",
         "The benchden Package: Benchmark Densities for Nonparametric Density Estimation.",
         "Journal of Statistical Software, 46(14), 1-14.",
-        "URL http://www.jstatsoft.org/v46/i14/.")
+        "URL https://www.jstatsoft.org/v46/i14/.")
 )
 

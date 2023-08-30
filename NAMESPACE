@@ -1,2 +1,8 @@
+importFrom("stats", "dbeta", "dcauchy", "dchisq", "dexp", "dlnorm",
+               "dlogis", "dnorm", "dunif", "pbeta", "pcauchy", "pchisq",
+               "pexp", "plnorm", "plogis", "pnorm", "punif", "qbeta",
+               "qcauchy", "qchisq", "qexp", "qlnorm", "qlogis", "qnorm",
+               "qunif", "rbeta", "rcauchy", "rchisq", "rexp", "rlnorm",
+               "rlogis", "rnorm", "runif", "uniroot")
 export(berdev,bberdev,dberdev,nberdev,pberdev,qberdev,rberdev,
 histo,bhisto,dhisto,nhisto,phisto,qhisto,rhisto)

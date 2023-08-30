@@ -56,12 +56,13 @@ where \eqn{U[a,b]} denotes the uniform distribution on \eqn{[a,b]}.
 }
 
 
-\references{ T. Mildenberger and H. Weinert, "The benchden Package:
+\references{ 
+T. Mildenberger and H. Weinert, "The benchden Package:
   Benchmark Densities for Nonparametric Density Estimation", Journal of
-  Statistical Software, vol. 46(14), 1-14, 2012. \url{http://www.jstatsoft.org/v46/i14/}
+  Statistical Software, vol. 46(14), 1-14, 2012. \url{https://www.jstatsoft.org/v46/i14/}
 
-Y. Rozenholc, T. Mildenberger and U. Gather (2010), "Combining Regular and Irregular Histograms by Penalized Likelihood", Computational Statistics and Data Analysis, 54, 3313-3323. 
-Earlier version including explicit definition of the densities: \url{http://www.statistik.tu-dortmund.de/fileadmin/user_upload/SFB_823/discussion_papers/2009/31_09_rozenholc_mildenberger_gather.pdf}
+Y. Rozenholc, T. Mildenberger and U. Gather (2010), "Combining Regular and Irregular Histograms by Penalized Likelihood", Computational Statistics and Data Analysis, 54, 3313-3323. \doi{10.1016/j.csda.2010.04.021}
+Earlier version including explicit definition of the densities: \doi{10.17877/DE290R-15901}
 }
 \author{ Thoralf Mildenberger}
 
